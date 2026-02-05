@@ -17,8 +17,8 @@ DOI: 10.1016/j.palaeo.2025.112883
 - `output/` generated figures/tables
 
 ## Data availability
-The raw occurrence/trait/environment datasets are obtained from:  
-- Zenodo
+The dataset used in this repository is archived on Zenodo: DOI: <(https://doi.org/10.5281/zenodo.18493493)>.
+Download the CSV (`appendix_1_SFT_datamatrix_submit.csv`) from the Zenodo record
 
 ## Reproducibility
 1. Open R in the project root
