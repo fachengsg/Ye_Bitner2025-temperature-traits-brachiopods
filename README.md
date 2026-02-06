@@ -23,8 +23,3 @@ https://doi.org/10.5281/zenodo.18504889)>
 
 Download the CSVs (`appendix_1_SFT_datamatrix_submit.csv`,`appendix_2_SST_datamatrix_submit.csv`) from the Zenodo record
 
-## Reproducibility
-1. Open R in the project root
-2. Restore packages:
-```r
-renv::restore()
