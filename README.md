@@ -17,7 +17,10 @@ DOI: 10.1016/j.palaeo.2025.112883
 - `output/` generated figures/tables
 
 ## Data availability
-The dataset used in this repository is archived on Zenodo: DOI: <(https://doi.org/10.5281/zenodo.18493493;https://doi.org/10.5281/zenodo.18504889)>
+The dataset used in this repository is archived on Zenodo: 
+DOI: <(https://doi.org/10.5281/zenodo.18493493;
+https://doi.org/10.5281/zenodo.18504889)>
+
 Download the CSVs (`appendix_1_SFT_datamatrix_submit.csv`,`appendix_2_SST_datamatrix_submit.csv`) from the Zenodo record
 
 ## Reproducibility
